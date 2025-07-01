@@ -1,1 +1,1 @@
-# knime-auto-report
+# agentic-plot-assistant-platform
